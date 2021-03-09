@@ -1,3 +1,3 @@
-# lernstick-
+# lernstick-doc
 
 Test tests

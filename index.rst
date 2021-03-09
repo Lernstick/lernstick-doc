@@ -6,4 +6,4 @@ Lernstick Documentation
 
 The Project is available on `GitHub <https://github.com/imedias/lernstick>`_.
 
-:doc:`go to markdown file <README.md>`
+:doc:`go to markdown file <README>`
