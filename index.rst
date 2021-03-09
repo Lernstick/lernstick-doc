@@ -1,0 +1,7 @@
+==========
+Lernstick Documentation
+==========
+
+`Lernstick <https://www.digitale-nachhaltigkeit.unibe.ch/dienstleistungen/lernstick>`_.
+
+The Project is available on `GitHub <https://github.com/imedias/lernstick>`_.
