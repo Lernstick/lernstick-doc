@@ -2,15 +2,15 @@
 
 Die Betreuung der IKT an Schulen ist auch heute noch eine zeitintensive und kostspielige Angelegenheit.
 
-#### Vorteil 1: Der Lernstick verursacht keine Lizenzkosten.
+**Vorteil 1: Der Lernstick verursacht keine Lizenzkosten.**
 
 Zusätzlich zu den Kosten für die Anschaffung von Hard- und Software verursacht die Wartung einen beträchtlichen Ressourcenaufwand. Um den Wartungsaufwand für die einzelnen Clients möglichst gering zu halten, werden in traditionellen Client-Server-Systemen in der Regel so genannte Images eingesetzt. 
 
-#### Vorteil 2: Der Lernstick kehrt vom Client-Server-Prinzip ab und bedarf daher auch keiner aufwändigen Image-Lösungen. Der Wartungsaufwand wird deutlich reduziert.
+**Vorteil 2: Der Lernstick kehrt vom Client-Server-Prinzip ab und bedarf daher auch keiner aufwändigen Image-Lösungen. Der Wartungsaufwand wird deutlich reduziert.**
 
 Um den Aufwand für die Nutzerverwaltung möglichst gering zu halten, werden an vielen Schulen keine persönlichen Nutzerprofile für SchülerInnen zugelassen. Dies führt dazu, dass SchülerInnen darauf achten müssen, ihre Dateien und Einstellungen immer wieder manuell zu sichern und bei Bedarf wiederherzustellen. Dies erschwert eine kontinuierliche Arbeit an längeren Projekten. Falls persönliche Nutzerprofile doch zugelassen werden, so existiert plötzlich ein Datenschutzproblem an der Schule, da so auch Persönlichkeitsprofile der SchülerInnen auf der IT-Infrastruktur der Schule abgelegt werden. 
 
-#### Vorteil 3: Mit dem Lernstick haben SchülerInnen immer und überall ihre Daten bei sich.
+**Vorteil 3: Mit dem Lernstick haben SchülerInnen immer und überall ihre Daten bei sich.**
 
 Neben den hohen Kosten ist bei traditionellen Lösungen ein weiteres aktuelles Problem das mobile Arbeiten, insbesondere der Datenaustausch zwischen Schule und Zuhause. Da Online-Anwendungen nicht für alle Anwendungsfälle zur Verfügung stehen und viele Probleme bezüglich Verfügbarkeit, Herstellerunabhängigkeit und Datenschutz haben, müssen Daten und Einstellungen oft manuell kopiert werden. Dabei wird häufig etwas vergessen oder es existieren an mehreren Orten verschiedene Versionen des gleichen Dokuments. Beides erschwert das mobile Arbeiten für SchülerInnen erheblich.
 
