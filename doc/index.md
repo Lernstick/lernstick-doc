@@ -6,4 +6,5 @@ Der Lernstick ist eine mobile und sichere Lern- und Arbeitsumgebung für die Sch
 
 The Project is available on [GitHub](https://github.com/imedias/lernstick).
 
-[Go to other page](/README)
+*[Go to other page](/README)
+*[Yet another page](/example/example)
