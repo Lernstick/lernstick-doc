@@ -1,5 +1,7 @@
 # Was ist der Lernstick?
 
+![Lernstick Logo](../../assets/logo.png)
+
 Der Lernstick ist ein handelsüblicher USB-Stick, auf den ein spezielles Betriebssystem installiert wird, sodass (fast) jeder beliebige Computer von diesem Stick gestartet werden kann.
 
 So wird den Lernenden und Lehrpersonen ein mobiles Arbeiten und Lernen innerhalb der Schule als auch zu Hause ermöglicht, da alle Programme, Daten und Einstellungen immer auf dem persönlichen Lernstick sind. Jeder Rechner verwandelt sich mit dem Lernstick in den "eigenen Rechner".
