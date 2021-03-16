@@ -13,5 +13,5 @@ The Project is available on `GitHub <https://github.com/imedias/lernstick>`_.
     :caption: Einführung
     :maxdepth: 2
 
-    example/example
-    README
+    doc/example/example
+    doc/README
