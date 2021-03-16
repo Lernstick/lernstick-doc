@@ -50,7 +50,7 @@ source_parsers = {
 }
 
 # The master toctree document.
-master_doc = 'index'
+master_doc = 'doc/index'
 
 # -- Options for HTML output -------------------------------------------------
 
