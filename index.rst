@@ -11,7 +11,7 @@ The Project is available on `GitHub <https://github.com/imedias/lernstick>`_.
 
 .. toctree::
     :caption: Einführung
-    :maxdepth: 2
+    :maxdepth: 1
 
     doc/Einführung/was-ist-lernstick
     doc/Einführung/vorteile-lernstick
