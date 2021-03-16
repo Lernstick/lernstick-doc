@@ -1,6 +1,6 @@
 # Was ist der Lernstick?
 
-![Lernstick Logo](../../assets/logo-small.png)
+![](../../assets/logo-small.png "Lernstick Logo")
 
 Der Lernstick ist ein handelsüblicher USB-Stick, auf den ein spezielles Betriebssystem installiert wird, sodass (fast) jeder beliebige Computer von diesem Stick gestartet werden kann.
 
