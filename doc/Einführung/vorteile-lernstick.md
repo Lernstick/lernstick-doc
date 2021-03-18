@@ -22,4 +22,4 @@ Wenn der Lernstick zum Einsatz kommt, kann auf die Installation und Wartung eine
 
 **TIPP:** Die persönlichen Daten auf dem Lernstick können verschlüsselt werden. So kann er auch einmal verloren gehen, ohne dass die Daten in falsche Hände gelangen können.
 
-<span style="color:red">Wichtig: </span> Entfernen Sie während des Betriebs nie den USB-Stick, von dem der PC oder Mac gestartet wurde!
+**<span style="color:red">Wichtig: </span>** Entfernen Sie während des Betriebs nie den USB-Stick, von dem der PC oder Mac gestartet wurde!
