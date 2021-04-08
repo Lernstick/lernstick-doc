@@ -26,4 +26,28 @@ The Project is available on `GitHub <https://github.com/imedias/lernstick>`_.
     doc/Erstellung-eines-Lernsticks/variante-2-starten-mit-hilfe-einer-virtuellen-maschine
     doc/Erstellung-eines-Lernsticks/bespielen-eines-usb-sticks
 
+    .. toctree::
+    :caption: Speichermedienverwaltung
+    :maxdepth: 1
 
+    doc/Speichermedienverwaltung/speichermedien-aktualisieren
+    doc/Speichermedienverwaltung/system-dvd-abbild-konvertieren
+    doc/Speichermedienverwaltung/speichermedien-reparieren
+
+    .. toctree::
+    :caption: Systemstart
+    :maxdepth: 2
+
+    doc/Systemstart/firmware
+    doc/Systemstart/starten-via-bios
+    doc/Systemstart/starten-via-uefi
+    doc/Systemstart/startbildschirm
+
+    .. toctree::
+    :caption: Benutzung
+    :maxdepth: 2
+
+    doc/Benutzung/willkommensbildschirm
+    doc/Benutzung/gnome
+    doc/Benutzung/einrichten-eines-druckers
+    
