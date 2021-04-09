@@ -50,7 +50,7 @@ Wenn das System auf mehrere Datenträger installiert wird, so wird beim ersten D
 
 Schnellformatierung ist eine Option, die nur bei der Verwendung des Dateisystem NTFS zur Verfügung steht und den Formatierungsvorgang beschleunigt, dabei aber auf das komplette Löschen der Daten auf der Partition verzichtet.
 
-**<span style="color:red">TIPP:</span>** Grundsätzlich ist davon auszugehen, dass Schüler außerhalb der Schule mit verschiedenen Betriebssystemen arbeiten werden. Um den Datenaustausch zwischen dem Lernstick und dem etwa zu Hause installierten Betriebssystem zu gewährleisten, sollten Sie unbedingt eine Austausch-Partition anlegen (bei einem 16 GB ca. 2-4 GB, bei größeren USB-Sticks entsprechend mehr).
+**c** Grundsätzlich ist davon auszugehen, dass Schüler außerhalb der Schule mit verschiedenen Betriebssystemen arbeiten werden. Um den Datenaustausch zwischen dem Lernstick und dem etwa zu Hause installierten Betriebssystem zu gewährleisten, sollten Sie unbedingt eine Austausch-Partition anlegen (bei einem 16 GB ca. 2-4 GB, bei größeren USB-Sticks entsprechend mehr).
 
 ![](../../assets/speichermedienverwaltung-2.png "Speichermedienverwaltung")
 
