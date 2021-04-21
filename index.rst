@@ -26,7 +26,7 @@ The Project is available on `GitHub <https://github.com/imedias/lernstick>`_.
     doc/Erstellung-eines-Lernsticks/variante-2-starten-mit-hilfe-einer-virtuellen-maschine
     doc/Erstellung-eines-Lernsticks/bespielen-eines-usb-sticks
 
-    .. toctree::
+.. toctree::
     :caption: Speichermedienverwaltung
     :maxdepth: 1
 
@@ -34,7 +34,7 @@ The Project is available on `GitHub <https://github.com/imedias/lernstick>`_.
     doc/Speichermedienverwaltung/system-dvd-abbild-konvertieren
     doc/Speichermedienverwaltung/speichermedien-reparieren
 
-    .. toctree::
+.. toctree::
     :caption: Systemstart
     :maxdepth: 2
 
@@ -43,7 +43,7 @@ The Project is available on `GitHub <https://github.com/imedias/lernstick>`_.
     doc/Systemstart/starten-via-uefi
     doc/Systemstart/startbildschirm
 
-    .. toctree::
+.. toctree::
     :caption: Benutzung
     :maxdepth: 3
 
@@ -58,13 +58,13 @@ The Project is available on `GitHub <https://github.com/imedias/lernstick>`_.
     doc/Benutzung/stop-motion-filme
     doc/Benutzung/besonderheiten-am-mac
     
-    .. toctree::
+.. toctree::
     :caption: Fehlerdiagnose
     :maxdepth: 1
 
     doc/Fehlerdiagnose/Fehlerdiagnose
 
-    .. toctree::
+.. toctree::
     :caption: Vervielältigung MASTER Stick
     :maxdepth: 1
 
@@ -73,13 +73,13 @@ The Project is available on `GitHub <https://github.com/imedias/lernstick>`_.
     doc/Vervielältigung MASTER Stick/rechnername-lernstick-kopien-ändern
     doc/Vervielältigung MASTER Stick/austauschpartition
 
-    .. toctree::
+.. toctree::
     :caption: Deinstallation
     :maxdepth: 1
 
     doc/Deinstallation/deinstallation
 
-    .. toctree::
+.. toctree::
     :caption: WLAN Passwort
     :maxdepth: 1
 
