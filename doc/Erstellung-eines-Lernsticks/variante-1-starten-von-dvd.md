@@ -10,4 +10,4 @@ Das heruntergeladene und überprüfte ISO-Abbild muss nun auf eine DVD gebrannt 
 (Wiederbeschreibbare DVDs müssen Sie vor dem Brennen mit CDBurnerXP leider manuell löschen. Wählen Sie dazu im Hauptmenü des Brennprogramms den Eintrag "Medium löschen".)
 
 ## Starten der DVD
-Eine ausführliche Anleitung zu diesem Thema finden Sie im Abschnitt Systemstart.
+Eine ausführliche Anleitung zu diesem Thema finden Sie im Abschnitt :doc:`Systemstart <../Systemstart/firmware>`.
