@@ -7,7 +7,6 @@ Lernstick Documentation
 
 The Project is available on `GitHub <https://github.com/imedias/lernstick>`_.
 
-:doc:`go to markdown file <doc/example/exampe>`
 
 .. toctree::
     :caption: Einführung
