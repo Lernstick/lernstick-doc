@@ -21,6 +21,7 @@ The Project is available on `GitHub <https://github.com/imedias/lernstick>`_.
 
     doc/Erstellung-eines-Lernsticks/herunterladen-der-iso-datei
     doc/Erstellung-eines-Lernsticks/überprüfen-der-iso-datei
+    doc/Erstellung-eines-Lernsticks/image-auf-stick-flashen
     doc/Erstellung-eines-Lernsticks/variante-1-starten-von-dvd
     doc/Erstellung-eines-Lernsticks/variante-2-starten-mit-hilfe-einer-virtuellen-maschine
     doc/Erstellung-eines-Lernsticks/bespielen-eines-usb-sticks
