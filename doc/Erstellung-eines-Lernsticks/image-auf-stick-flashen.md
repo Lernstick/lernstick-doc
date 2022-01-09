@@ -1,6 +1,6 @@
 # Image auf Stick flashen
 
-Die einfachste Art das Lernstick-ISO auf einen USB-Stick zu bespielen, ist über die Anwendung [Etcher](https://www.balena.io/etcher/).
+Die einfachste Art das Lernstick-ISO auf einen USB-Stick zu bespielen, ist einen sogenannten ISO-Stick über die Anwendung [Etcher](https://www.balena.io/etcher/) zu erstellen.
 
 Laden Sie die Software herunter und installieren Sie diese. Wenn Sie die Anwendung öffnen, präsentiert sich Ihnen folgendes Fenster:
 
@@ -26,8 +26,8 @@ Klicken Sie nun auf _Flash_ um den Prozess zu starten. Falls Windows Sie um Bere
 
 ![](../../assets/balena-etcher-flash.png "flash")
 
-Sobald der Prozess abgeschlossen ist, wird Windows Sie auffordern den USB-Stick zu formatieren, da dieser nun nicht mehr als verwendbar anerkannt wird. Klicken Sie auf _abbrechen_.
+Sobald der Prozess abgeschlossen ist, wird Windows Sie auffordern den USB-Stick zu formatieren, da dieser nun nicht mehr als verwendbar anerkannt wird. Klicken Sie auf _Abbrechen_.
 
 ![](../../assets/datentraeger-formatieren-flash.png "formatieren")
 
-Nun kann das Lernstick OS vom bespielten USB-Stick gebootet werden.
+Beachten Sie bitte, dass ein so erstellter Stick nur so etwas wie eine _virtuelle DVD_ ist, also nicht die üblichen Partitionen enthält und nicht weiter beschrieben werden kann. Sie können diesen ISO-Stick jedoch booten und die dann automatisch startende Speichermedienverwaltung verwenden, um "richtige" Lernsticks mit beschreibbarer Datenpartition zu erstellen.
