@@ -30,7 +30,6 @@ The Project is available on `GitHub <https://github.com/imedias/lernstick>`_.
     :maxdepth: 1
 
     doc/Speichermedienverwaltung/speichermedien-aktualisieren
-    doc/Speichermedienverwaltung/system-dvd-abbild-konvertieren
     doc/Speichermedienverwaltung/speichermedien-reparieren
 
 .. toctree::
