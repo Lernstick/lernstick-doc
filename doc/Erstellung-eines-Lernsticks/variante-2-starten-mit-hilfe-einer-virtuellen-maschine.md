@@ -1,5 +1,5 @@
-# Variante 2: Starten mit Hilfe einer virtuellen Maschine
-Einige fortgeschrittene Anwender empfinden es als umständlich, nachdem das Lernstick-DVD-ISO-File heruntergeladen wurde, erst eine DVD brennen zu müssen, damit das Lernstick-System installiert/genutzt werden kann. Dieser Schritt kann ausgelassen werden, indem man das Lernstick-System mit Hilfe einer virtuellen Maschine startet. Danach kann aus der virtuellen Maschine heraus ein Lernstick (= USB-Stick) erzeugt werden.
+# Starten mit Hilfe einer virtuellen Maschine
+Eine weitere Möglichkeit ist, das Lernstick-System mit Hilfe einer virtuellen Maschine zu starten. Danach kann aus der virtuellen Maschine heraus ein Lernstick (= USB-Stick) erzeugt werden.
 Dies soll hier am Beispiel von [VirtualBox](https://www.virtualbox.org/), einer freien Virtualisierungslösung gezeigt werden:
 
 **<span style="color:red">Wichtig: </span>** Für den Fall, dass Sie unter Windows aus irgendeinem Grund die Funktion “Hyper-V” aktiviert haben, deaktivieren Sie sie bitte wieder. Die Hyper-V-Funktion verhindert den reibungslosen Betrieb von VirtualBox. Wie Hyper-V deaktiviert werden kann, ist z.B. hier beschrieben:
