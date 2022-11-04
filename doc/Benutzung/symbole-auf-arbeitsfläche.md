@@ -13,7 +13,7 @@ Zunächst müssen Sie das Optimierungswerkzeug starten. Wählen Sie dazu “Akti
 
 Dort aktivieren Sie dann im Menü “Arbeitsoberfläche” die Option “Symbole auf Arbeitsfläche”:
 
-![](../../assets/arbeitsoberfläche.png "Symbole")
+![](../../assets/arbeitsoberflaeche.png "Symbole")
 
 ## Programmsymbole auf der Arbeitsfläche
 
@@ -24,7 +24,7 @@ Falls Sie die Symbole von installierten Programmen auf der Arbeitsfläche anzeig
 
 Klicken Sie dann die Arbeitsfläche mit der rechten Maustaste an (1) und wählen den Menüpunkt “Einfügen” (2):
 
-![](../../assets/einfügen.png "Symbole")
+![](../../assets/einfuegen.png "Symbole")
 
 Das Programmsymbol sollte daraufhin auf der Arbeitsfläche erscheinen:
 

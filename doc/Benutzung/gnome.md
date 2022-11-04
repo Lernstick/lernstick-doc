@@ -55,7 +55,7 @@ Neben den allgemeinen **Einstellungen** gibt es noch das Werkzeug **“Optimieru
 
 Dieses findet sich bei den Anwendungen unter Aktivitäten.
 
-![](../../assets/arbeitsflächen.png "GNOME-Shell")
+![](../../assets/arbeitsflaechen.png "GNOME-Shell")
 
 <span style="color:red">Tipp:</span> Für Details zum GNOME-Deskop sind die beiden Seiten [https://help.gnome.org/users/gnome-help/stable/index.html.de](https://help.gnome.org/users/gnome-help/stable/index.html.de) sowie [http://wiki.ubuntuusers.de/gnome_shell](http://wiki.ubuntuusers.de/gnome_shell) für den Einstieg ganz hilfreich.
 

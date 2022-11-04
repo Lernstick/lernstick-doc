@@ -18,7 +18,7 @@ Der Menüpunkt “Unfreie Software” ermöglicht die Installation von Anwendung
 
 Der Menüpunkt “Zusätzliche Software” bietet unter anderem die Installation des **Lernstick Advanced Teaching-System** an.
 
-![](../../assets/zusätzliche-software.png "Zusätzliche Software")
+![](../../assets/zusaetzliche-software.png "Zusätzliche Software")
 
 Hierbei handelt es sich um eine **mobile Lernumgebung**, die dem Lehrer **ohne Konfiguration** durch einen IT-Experten (wie etwa bei iTalc) die Steuerung der Schüler PCs ermöglicht (Internet sperren, usw.).
 Mit dem Lernstick Advanced Teaching-System können auch Test, Schularbeiten und Reifeprüfungen im so genannten Prüfungsmodus sicher durchgeführt werden.
@@ -33,7 +33,7 @@ Wie bei allen Dingen im Leben gibt es bei beiden Varianten Vor- und Nachteile. E
 
 Bei den “Zusätzlichen Einstellungen” können diverse Parameter wie der System- oder Benutzername gesetzt werden:
 
-![](../../assets/zusätzliche-einstellungen.png "Zusätzliche Einstellungen")
+![](../../assets/zusaetzliche-einstellungen.png "Zusätzliche Einstellungen")
 
 In manchen Schulen muss zuerst ein Proxy definiert werden, damit überhaupt auf das Internet zugegriffen werden kann:
 
@@ -43,7 +43,7 @@ In der Lernstick-Prüfungsumgebung stehen im Willkommensprogramm die Menüpunkte
 
 Die Lernstick-Prüfungsumgebung ist im Auslieferungszustand noch relativ offen. Unter dem Menüpunkt “Zusätzliche Einstellungen -> Benutzer” sollte daher unbedingt ein Passwort festgelegt werden, das danach für alle administrativen Vorgänge abgefragt wird. Dieses Passwort sollte den Anwendern selbstverständlich NICHT mitgeteilt werden.
 
-![](../../assets/zusätzliche-einstellungen-2.png "Zusätzliche Einstellungen")
+![](../../assets/zusaetzliche-einstellungen-2.png "Zusätzliche Einstellungen")
 
 Unter dem Menüpunkt “Firewall” kann eine Whitelist von Hosts und URLs angegeben werden, auf die in der Prüfung zugegriffen werden darf. Eine Erklärung zur Syntax bei den Hosts und URLs ist im rechten Reiter “Hilfe” integriert:
 

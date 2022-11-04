@@ -13,7 +13,7 @@ Falls auf Ihrem Computer Windows 8 oder eine neuere Version installiert ist, fun
 
 3. Windows zeigt daraufhin einige Optionen an. Wählen Sie den Menüpunkt “Problembehandlung”:
 
-![](../../assets/option-auswählen-problemhandlung.png "Option auswählen")
+![](../../assets/option-auswaehlen-problemhandlung.png "Option auswählen")
 
 4. In der nächsten Ansicht wählen Sie den Menüpunkt “Erweiterte Optionen”:
 
@@ -39,6 +39,6 @@ Manche Computer können im UEFI-Modus nicht fehlerfrei von USB gestartet werden.
 
 Falls Sie nicht schaffen, die Bootreihenfolge im UEFI dauerhaft umzustellen, können Sie auch aus Windows heraus temporär von einem anderen Medium booten. Starten Sie den Computer wieder bei gedrückter Shift-Taste neu und wählen Sie die Option “Ein Gerät verwenden”:
 
-![](../../assets/option-auswählen-ein-gerät-verwenden.png "Gerät verwenden")
+![](../../assets/option-auswaehlen-ein-geraet-verwenden.png "Gerät verwenden")
 
 Wählen Sie dann aus der angebotenen Liste den Lernstick oder die Lernstick-DVD.

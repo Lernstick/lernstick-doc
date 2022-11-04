@@ -12,13 +12,13 @@ Stopmotion speichert Projektdateien mit der Endung “.sto” ab. Diese Dateien 
 
 Damit die Archivprogramme und Dateimanager sie richtig entpacken können, muss die Endung wieder auf “.tar” geändert werden. Im Dateimanager Nautilus kann das zum Beispiel mit einem Rechtsklick und der Auswahl des Menüeintrags “Umbenennen ...” erfolgen:
 
-![](../../assets/persönlicher-ordner.png "Persönlicher Ordner")
+![](../../assets/persoenlicher-ordner.png "Persönlicher Ordner")
 
 So kann die Datei-Endung direkt in Nautilus geändert werden.
 
 Danach kann wieder mit einem Rechtsklick auf die bereits umbenannte Datei und Auswahl des Menüpunktes “Hier entpacken” das Stopmotion-Projekt ausgepackt werden:
 
-![](../../assets/persönlicher-ordner-2.png "Persönlicher Ordner")
+![](../../assets/persoenlicher-ordner-2.png "Persönlicher Ordner")
 
 So ist ein Ordner entstanden, der alle Dateien des Stopmotion-Projektes, inklusive der Einzelbilder, in unkomprimierter Form enthält:
 

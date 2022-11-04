@@ -28,7 +28,7 @@ Danach muss man sich in der grafischen Oberfläche neu anmelden.
 Wählen Sie für den Typ des Betriebssystems “Linux” und als Version bis zum Lernstick 8 “Debian (32-bit)” und für Lernstick 9 oder später “Debian (64-bit)” aus.
 Je nachdem über wie viel **Arbeitsspeicher** Ihr Rechner verfügt, geben Sie ca. ein Viertel bis die Hälfte davon (**<span style="color:red">jedoch deutlich über 1024 MB, bis die Meldung “Ungültige Einstellungen erkannt“ verschwindet</span>**) im nächsten Schritt der virtuellen Maschine.
 
-![](../../assets/Speichergrösse_virtuelle-maschine-erzeugen.png "Virtuelle Maschine erzeugen Speichergrösse")
+![](../../assets/Speichergroesse_virtuelle-maschine-erzeugen.png "Virtuelle Maschine erzeugen Speichergrösse")
 
 Um lediglich einen Basis-Lernstick zu erzeugen, ist keine Festplatte in der virtuellen Maschine erforderlich:
 
@@ -56,7 +56,7 @@ Damit die virtuelle Netzwerkverbindung zuverlässig einen guten Durchsatz bietet
 Bestätigen Sie Ihre Änderungen und starten Sie danach den virtuellen Lernstick. VirtualBox möchte nun wissen, von welchem Medium es booten soll. 
 Klicken Sie hierzu auf das gelbe Ordner-Symbol und wählen Sie die zuvor heruntergeladene und überprüfte Lernstick-ISO-Datei aus.
 
-![](../../assets/medium-für-start.png "Start")
+![](../../assets/medium-fuer-start.png "Start")
 
 ![](../../assets/downloads.png "Downloads")
 
