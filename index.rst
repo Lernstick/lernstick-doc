@@ -1,11 +1,11 @@
 
 ==========
-Lernstick Documentation
+Lernstick Dokumentation
 ==========
 
-`Lernstick <https://www.digitale-nachhaltigkeit.unibe.ch/dienstleistungen/lernstick>`_.
+`Offizielle Lernstick-Website <https://www.lernstick.ch>`_.
 
-The Project is available on `GitHub <https://github.com/imedias/lernstick>`_.
+The Project is available on `GitHub <https://github.com/Lernstick>`_.
 
 
 .. toctree::
@@ -63,13 +63,13 @@ The Project is available on `GitHub <https://github.com/imedias/lernstick>`_.
     doc/Fehlerdiagnose/Fehlerdiagnose
 
 .. toctree::
-    :caption: Vervielältigung MASTER Stick
+    :caption: Vervielfältigung MASTER Stick
     :maxdepth: 1
 
-    doc/Vervielältigung MASTER Stick/vervielfältigung
-    doc/Vervielältigung MASTER Stick/mögliche-vorgehensweisen
-    doc/Vervielältigung MASTER Stick/rechnername-lernstick-kopien-ändern
-    doc/Vervielältigung MASTER Stick/austauschpartition
+    doc/Vervielfältigung MASTER Stick/vervielfältigung
+    doc/Vervielfältigung MASTER Stick/mögliche-vorgehensweisen
+    doc/Vervielfältigung MASTER Stick/rechnername-lernstick-kopien-ändern
+    doc/Vervielfältigung MASTER Stick/austauschpartition
 
 .. toctree::
     :caption: Deinstallation
