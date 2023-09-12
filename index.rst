@@ -5,7 +5,7 @@ Lernstick Dokumentation
 
 `Offizielle Lernstick-Website <https://www.lernstick.ch>`_.
 
-The Project is available on `GitHub <https://github.com/Lernstick>`_.
+Lernstick ist auch auf `GitHub <https://github.com/Lernstick>`_ verfügbar und freut sich über Mitwirkung.
 
 
 .. toctree::
